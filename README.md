@@ -47,8 +47,6 @@ visualization and a circular arc gauge for risk display.
 `Python` `scikit-learn` `Streamlit` `pandas` `Databricks` `logistic regression` `NHATS`
 [🚀 Live Demo](https://uncw-cognitive-risk-assessment-app.streamlit.app/) · [📂 Repository](https://github.com/farhatjoyan/Cognitive-Risk-Assessment-App)
 
----
-
 **App Review Rating Prediction System**
 An end-to-end NLP pipeline that predicts app store review ratings using
 TF-IDF feature extraction and LightGBM. Built as a team project for a
@@ -56,6 +54,14 @@ Software Engineering for Data Science course. Key finding: feature
 representation mattered more than model selection.
 `Python` `LightGBM` `TF-IDF` `Azure ML` `scikit-learn` `NLP`
 [🔗 Project Site](https://uncw-dsc592-spring2026.github.io/Group-A-Webpage/index.html)
+
+**Predicting Women's Literacy in Afghanistan**
+A machine learning study using UNICEF MICS survey data to predict
+women's literacy outcomes in Afghanistan. Addressed class imbalance
+and compared Random Forest vs CatBoost models. Key finding: school
+attendance alone accounts for 48% of predictive weight.
+`Python` `scikit-learn` `CatBoost` `pandas` `EDA` `UNICEF MICS`
+[📂 Repository](https://github.com/farhatjoyan/afghanistan-womens-literacy-prediction)
 
 ---
 
