@@ -1,7 +1,7 @@
 # Hi, I'm Farhat Joyan 👋
 
 MS in Artificial Intelligence & Data Science @ UNC Wilmington
-Graduating 2026 · Open to Data Scientist, Data Analyst & Data Engineer roles
+Graduating 2026 · Open to Data Scientist, Data Analyst & related roles
 
 🔭 Currently building: Customer behavior prediction model for a logistics company (Snowflake · Python)
 
@@ -35,27 +35,27 @@ NLP systems, and production-ready Streamlit applications.
 ## Featured Projects
 
 **Dementia Cognitive Risk Assessment**
-A Streamlit-based screening tool using logistic regression to estimate
-dementia probability from cognitive and demographic features. Built with
-Python, scikit-learn, and pandas — includes an interactive UI with
-color-coded risk visualization and a circular arc gauge.
-`Python` `scikit-learn` `Streamlit` `pandas` `logistic regression`
+A clinical screening tool developed over two semesters as a research
+practicum for UNC Wilmington's nursing department. As part of a team
+of three students and a faculty supervisor, contributed to building a
+logistic regression pipeline on NHATS data to estimate dementia
+probability from cognitive and demographic features selected by nursing
+faculty for an ongoing research study. Following model completion, was
+individually commissioned by the nursing department to deploy the tool
+as a production Streamlit application — featuring color-coded risk
+visualization and a circular arc gauge for risk display.
+`Python` `scikit-learn` `Streamlit` `pandas` `Databricks` `logistic regression` `NHATS`
+[🚀 Live Demo](https://uncw-cognitive-risk-assessment-app.streamlit.app/) · [📂 Repository](https://github.com/farhatjoyan/Cognitive-Risk-Assessment-App)
 
 ---
 
 **App Review Rating Prediction System**
 An end-to-end NLP pipeline that predicts app store review ratings using
-TF-IDF feature extraction and LightGBM. Built as part of a software
-engineering practicum on Azure ML. Key finding: feature representation
-mattered more than model selection.
+TF-IDF feature extraction and LightGBM. Built as a team project for a
+Software Engineering for Data Science course. Key finding: feature
+representation mattered more than model selection.
 `Python` `LightGBM` `TF-IDF` `Azure ML` `scikit-learn` `NLP`
-
----
-
-**Young Scientist Academy Platform**
-A full-stack web platform built with Django supporting students, teachers,
-research project management, and interactive learning experiences.
-`Python` `Django` `SQL`
+[🔗 Project Site](https://uncw-dsc592-spring2026.github.io/Group-A-Webpage/index.html)
 
 ---
 
