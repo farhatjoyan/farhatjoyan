@@ -29,6 +29,7 @@ NLP systems, and production-ready Streamlit applications.
 - Healthcare & Cognitive Analytics
 - Data-Driven Educational Systems
 - Data Visualization & Storytelling
+- Spatial & Geographic Data
 
 ---
 
